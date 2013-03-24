@@ -1,0 +1,10 @@
+{
+    "name": "dom-append",
+    "description": "Quickly append DOM elements to other.",
+    "version": "0.1.0",
+    "main": "index.js",
+    "author": "Florian Margaine <florian@margaine.com>",
+    "dependencies": {
+        "foreach-shim": "0.1.x"
+    }
+}
